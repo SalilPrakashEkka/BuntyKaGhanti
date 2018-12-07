@@ -9,12 +9,12 @@ It also Contains List of Dialogs Of Bunty(A Famous Character Of Sacred Games Ser
 
 This App is Just For Fun Made By an Bunty Fan.
 
-Technical Stuffs
+Technical Stuffs.
 
-   It uses Googles Voice to Speech to convert the phrase listened to a String and
-   then comparing it with Predefined Stored Strings and then playing the Assigned Voice/Dialogs.
+    It uses Googles Voice to Speech to convert the phrase listened to a String and
+    then comparing it with Predefined Stored Strings and then playing the Assigned Voice/Dialogs.
    
-   It also Uses Media Player classes to play the voices/Dialogs.
+    It also Uses Media Player classes to play the voices/Dialogs.
    
   
 You can use this Google Speech to Text code if you dont want to have googles mic dialog popup.
